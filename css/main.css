@@ -4,6 +4,6 @@
 
 .div__underline--lightgrey {
   width: 100%;
-  background-color: hsl(0, 0%, 83%);
   height: 35px;
+  background-color: hsl(0, 0%, 83%);
 }
